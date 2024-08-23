@@ -3,7 +3,7 @@
 
 |Build Status| |License (GPL version 3)|
 
-:date:  last revision April 2022
+:date:  last revision August 2024
 
 
 ***********************************************************
@@ -416,13 +416,18 @@ This last work was partly supported by:
 **************************************
 ## REFERENCES
 
-Here is the full list of peer-reviewed publications using the GEOtop model (updated October 2021):
+Here is the full list of peer-reviewed publications that we know that are using the GEOtop model. Please let as know if some are missed! (updated August 2024):
+
+
+* Rangarajan, S., Rahardjo, H., Satyanaga, A. & Li, Y. Influence of 3D subsurface flow on slope stability for unsaturated soils. Eng. Geol. 339, 107665 (2024). https://doi.org/10.1016/j.enggeo.2024.10766
+
+* Busti, R., Capparelli, G. & Formetta, G. Exploring hydrological dynamics of layered pyroclastic soils by combining laboratory and field experiments with a numerical model. Hydrol. Process. 38, (2024). https://onlinelibrary.wiley.com/doi/10.1002/hyp.15257 5
 
 * Wani, J. M., Thayyen, R. J., Ojha, C. S. P., and Gruber, S.: The surface energy balance in a cold and arid permafrost environment, Ladakh,  Himalayas, India, The Cryosphere, 15, 2273--2293, https://doi.org/10.5194/tc-15-2273-2021, 2021.
 
 * Bright Ross, J.G., Peters, W., Ossi, F., Moorcroft, P.L.,  Cordano, E.,  Eccel, E.,  Bianchini, F.,  Ramanzin, M., and  Cagnacci, F. . Climate change and anthropogenic food manipulation interact in shifting the distribution of a large herbivore at its altitudinal range limit. Sci Rep 11, 7600 (2021). https://doi.org/10.1038/s41598-021-86720-2
 
-*  Terzago, S., Andreoli, V., Arduini, G., Balsamo, G., Campo, L., Cassardo, C., Cremonese, E., Dolia, D., Gabellani, S., Hardenberg, J. von, Cella, U.M. di, Palazzi, E., Piazzi, G., Pogliotti, P., Provenzale, A., 2020. Sensitivity of snow models to the accuracy of meteorological forcings in mountain environments. Hydrology and Earth System Sciences 24, 4061–4090. https://doi.org/10.5194/hess-24-4061-2020
+*  Terzago, S., Andreoli, V., Arduini, G., Balsamo, G., Campo, L., Cassardo, C., Cremonese, E., Dolia, D., Gabellani, S., Hardenberg, J. von, Cella, U.M. di, Palazzi, E., Piazzi, G., Pogliotti, P., Provenzale, A., 2020. Sensitivity of snow models to the accuracy of meteorological forcings in mountain environments, 2020. Hydrology and Earth System Sciences 24, 4061–4090. https://doi.org/10.5194/hess-24-4061-2020
 
 * Wani, J.M., Thayyen, R.J., Gruber, S., Ojha, C.S.P., Stumm, D., 2020. Single-year thermal regime and inferred permafrost occurrence in the upper Ganglass catchment of the cold-arid Himalaya, Ladakh, India. Sci. Total Environ. 703, 134631. https://doi.org/10.1016/j.scitotenv.2019.134631
 
