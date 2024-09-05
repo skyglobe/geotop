@@ -418,11 +418,14 @@ This last work was partly supported by:
 
 Here is the full list of peer-reviewed publications that we know that are using the GEOtop model. Please let as know if some are missed! (updated August 2024):
 
+* Hou, R. et al. Big Disaster from Small Watershed: Insights into the Failure and Disaster-Causing Mechanism of a Debris Flow on 25 September 2021 in Tianquan, China. Int. J. Disaster Risk Sci. 15, 622–639 (2024) https://link.springer.com/article/10.1007/s10346-021-01681-x
 
 * Rangarajan, S., Rahardjo, H., Satyanaga, A. & Li, Y. Influence of 3D subsurface flow on slope stability for unsaturated soils. Eng. Geol. 339, 107665 (2024). https://doi.org/10.1016/j.enggeo.2024.10766
 
-* Busti, R., Capparelli, G. & Formetta, G. Exploring hydrological dynamics of layered pyroclastic soils by combining laboratory and field experiments with a numerical model. Hydrol. Process. 38, (2024). https://onlinelibrary.wiley.com/doi/10.1002/hyp.15257 5
+* Busti, R., Capparelli, G. & Formetta, G. Exploring hydrological dynamics of layered pyroclastic soils by combining laboratory and field experiments with a numerical model. Hydrol. Process. 38, (2024). https://onlinelibrary.wiley.com/doi/10.1002/hyp.15257 
 
+* Tufano, R., Formetta, G., Calcaterra, D. & Vita, P. D. Hydrological control of soil thickness spatial variability on the initiation of rainfall-induced shallow landslides using a three-dimensional model. Landslides 18, 3367–3380 (2021). https://link.springer.com/article/10.1007/s10346-021-01681-x
+  
 * Wani, J. M., Thayyen, R. J., Ojha, C. S. P., and Gruber, S.: The surface energy balance in a cold and arid permafrost environment, Ladakh,  Himalayas, India, The Cryosphere, 15, 2273--2293, https://doi.org/10.5194/tc-15-2273-2021, 2021.
 
 * Bright Ross, J.G., Peters, W., Ossi, F., Moorcroft, P.L.,  Cordano, E.,  Eccel, E.,  Bianchini, F.,  Ramanzin, M., and  Cagnacci, F. . Climate change and anthropogenic food manipulation interact in shifting the distribution of a large herbivore at its altitudinal range limit. Sci Rep 11, 7600 (2021). https://doi.org/10.1038/s41598-021-86720-2
