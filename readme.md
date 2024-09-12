@@ -174,22 +174,30 @@ ninja
 ```
 
 
-#### Notes for Mac users
-
-You might have issues with libomp, The error is something like below:
-
+### Notes for Mac users
+The following information is related to compiling `geotop v3.0` using `Meson` only.
+On Mac, you might have issues with `libomp`, The error is something like below:
 ```
 geotop.p/src_geotop_input.cc.o -c ../src/geotop/input.cc ../src/geotop/input.cc:47:10: fatal error: 'omp.h' file not found
 ```
+To resolve this, enable the `WITH_OMP` option in the `meson_options.txt` file. This option is set to `false` by default as seen below:
 
-Do the  following from the command line:
+```
+option('WITH_OMP', type: 'boolean', value: false, description: 'Enable openMP framework')
+```
+
+You can either enable it using the command line:
+
 ```
 meson configure -DWITH_OMP=true
 ```
 
-Another error could be related to the version GoogleTest not compatible with C++11.
-Simply change the header in the meson.build file as below:
-Default header of meson.build:
+Alternatively, you can edit the `meson_options.txt` file directly and set `value: true`.
+
+Another issue was related to the version of GoogleTest (googletest: stable 1.15.2) being incompatible with `C++11`. To address this, you can update your `meson.build` file as follows:
+
+Default header of `meson.build` file:
+
 ```
 project('geotop','cpp',
         default_options : ['cpp_std=c++11',
@@ -206,8 +214,7 @@ project('geotop','cpp',
         version: '3.0')
 ```
 
-By doing these, you should able to compile geotop version 3.0.0 on Mac using Meson.
-
+By doing these, you should able to compile `geotop version 3.0.0` on Mac using Meson.
 
 ***********************************************************
 ## Running GEOtop
