@@ -459,8 +459,10 @@ This last work was partly supported by:
 **************************************
 ## REFERENCES
 
-Here is the full list of peer-reviewed publications that we know that are using the GEOtop model. Please let as know if some are missed! (updated August 2024):
+Here is the full list of peer-reviewed publications that we know that are using the GEOtop model. Please let as know if some are missed! (updated December 2024):
 
+* Cheng, Y.; Li, Y. Application of Capillary Barrier Systems for Slope Stabilization Under Extreme Rainfall: A Case Study of National Highway 10, India. Infrastructures (2024), 9, 201. https://doi.org/10.3390/infrastructures9110201
+ 
 * Hou, R. et al. Big Disaster from Small Watershed: Insights into the Failure and Disaster-Causing Mechanism of a Debris Flow on 25 September 2021 in Tianquan, China. Int. J. Disaster Risk Sci. 15, 622–639 (2024) https://link.springer.com/article/10.1007/s10346-021-01681-x
 
 * Rangarajan, S., Rahardjo, H., Satyanaga, A. & Li, Y. Influence of 3D subsurface flow on slope stability for unsaturated soils. Eng. Geol. 339, 107665 (2024). https://doi.org/10.1016/j.enggeo.2024.10766
